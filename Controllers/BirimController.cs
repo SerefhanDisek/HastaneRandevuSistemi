@@ -1,7 +1,5 @@
 using HastaneRandevuSistemi.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Reflection.Metadata.Ecma335;
-using System.Transactions;
 
 namespace HastaneRandevuSistemi.Controllers
 {

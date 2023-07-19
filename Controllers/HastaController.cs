@@ -1,5 +1,6 @@
 using HastaneRandevuSistemi.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace HastaneRandevuSistemi.Controllers
 {
@@ -7,7 +8,7 @@ namespace HastaneRandevuSistemi.Controllers
   {
     static List<Hasta> hastalar = new List<Hasta>();
 
-    public IActionResult Index ()
+    public IActionResult Index()
     {
       return View(hastalar);
     }
@@ -20,40 +21,40 @@ namespace HastaneRandevuSistemi.Controllers
       string TelefonNumarasi = HttpContext.Request.Form["TelefonNumarasi"];
       string Email = HttpContext.Request.Form["email"];
 
-      Hasta newHasta = new Hasta();
+      Hasta newHasta = new Hasta
       {
-        Isim = isim,
-        SoyIsim = soyIsim,
-        TelefonNumarasi = telefonNumarasi,
-        Email = email,
+        Isim = Isim,
+        SoyIsim = SoyIsim,
+        TelefonNumarasi = TelefonNumarasi,
+        Email = Email,
       };
 
       hastalar.Add(newHasta);
-      return View("Index",hastalar);
+      return View("Index", hastalar);
     }
 
     [HttpGet]
     public string HastaKaydetGet()
     {
-      string isim = HttpContext.Request.Query["Isim"];
-      string soyIsim = HttpContext.Request.Query["SoyIsim"];
-      string telefonNumarasi = HttpContext.Request.Query["TelefonNumarasi"];
-      string email = HttpContext.Request.Query["email"];
+      string Isim = HttpContext.Request.Query["Isim"];
+      string SoyIsim = HttpContext.Request.Query["SoyIsim"];
+      string TelefonNumarasi = HttpContext.Request.Query["TelefonNumarasi"];
+      string Email = HttpContext.Request.Query["email"];
 
-      string text = isim + " " + soyIsim + " " + telefonNumarasi + " " + email;
+      string text = Isim + " " + SoyIsim + " " + TelefonNumarasi + " " + Email;
       return text;
     }
 
-    public string HastaKaydetBagla(string isim, string soyIsim, string telefonNumarasi, string email )
+    public string HastaKaydetBagla(string Isim, string SoyIsim, string TelefonNumarasi, string Email)
     {
-      string text = isim + " " + soyIsim + " " + telefonNumarasi + " " + email;
+      string text = Isim + " " + SoyIsim + " " + TelefonNumarasi + " " + Email;
       return text;
     }
 
     public IActionResult HastaKaydetModel(Hasta hasta)
     {
       hastalar.Add(hasta);
-      return View("Index",hastalar);
+      return View("Index", hastalar);
     }
   }
 }

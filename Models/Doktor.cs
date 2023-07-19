@@ -8,7 +8,7 @@ namespace HastaneRandevuSistemi.Models
     public int BirimId { get; set; }
     public Birim Birim { get; set; }
 
-    public int Poliklinik { get ; set; }
+    public int PoliklinikId { get ; set; }
     public Randevu Poliklinik { get ; set; }
       
 

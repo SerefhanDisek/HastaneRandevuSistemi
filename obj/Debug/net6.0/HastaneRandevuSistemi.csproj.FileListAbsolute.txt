@@ -30,3 +30,6 @@ C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.pdb
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.genruntimeconfig.cache
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\ref\HastaneRandevuSistemi.dll
+C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\net6.0\IdentityServer3.dll
+C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\net6.0\Owin.dll
+C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.csproj.CopyComplete
