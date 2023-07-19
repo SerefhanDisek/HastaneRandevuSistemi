@@ -15,3 +15,23 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Azn/Desktop/HastaneRandevuSistemi/HastaneRandevuSistemi/View/Hasta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIYXN0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azn/Desktop/HastaneRandevuSistemi/HastaneRandevuSistemi/View/Hasta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIYXN0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azn/Desktop/HastaneRandevuSistemi/HastaneRandevuSistemi/View/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azn/Desktop/HastaneRandevuSistemi/HastaneRandevuSistemi/View/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azn/Desktop/HastaneRandevuSistemi/HastaneRandevuSistemi/View/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

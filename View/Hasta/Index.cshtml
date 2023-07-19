@@ -1,0 +1,27 @@
+@model IEnumerable<HastaneRandevuSistemi.Models.Hasta>
+
+<h2>Hastalar Listesi</h2>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>İsim</th>
+			<th>Soyisim</th>
+			<th>Telefon Numarası</th>
+			<th>Email</th>
+			<th>Doğum Tarihi</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Isim</td>
+				<td>@item.SoyIsim</td>
+				<td>@item.TelefonNumarasi</td>
+				<td>@item.Email</td>
+				<td>@item.DateofBirth.ToShortDateString()</td>
+			</tr>
+		}
+	</tbody>
+</table>
