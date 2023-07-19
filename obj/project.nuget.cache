@@ -1,8 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "LW3ViOq70umymTeJnCD+0MhB2OtKzbnXJACmT7C/tHJ+067oTVqbmuKTJLE1t+3e8swjsVu9yN9vzp3I3DvcMw==",
+  "dgSpecHash": "UMcJFOPXDHwrBuiiAkHXlqi6dN3HTsqyHO2ZBHJhV4v7UiaLr46AamXSxr13j+c2txOEdEAt021ugcUGMA4gYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Azn\\.nuget\\packages\\identityserver3\\2.6.3\\identityserver3.2.6.3.nupkg.sha512",
+    "C:\\Users\\Azn\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IdentityServer3 2.6.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "IdentityServer3",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Owin 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Owin",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
