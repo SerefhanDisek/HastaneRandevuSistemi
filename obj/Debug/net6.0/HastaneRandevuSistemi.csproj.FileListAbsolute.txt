@@ -35,3 +35,14 @@ C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\net6.
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.csproj.CopyComplete
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.RazorAssemblyInfo.cache
 C:\Users\Azn\Desktop\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.RazorAssemblyInfo.cs
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.csproj.AssemblyReference.cache
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.AssemblyInfoInputs.cache
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.AssemblyInfo.cs
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.RazorAssemblyInfo.cache
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.RazorAssemblyInfo.cs
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.dll
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\refint\HastaneRandevuSistemi.dll
+C:\Users\oezen\OneDrive\Belgeler\GitHub\HastaneRandevuSistemi\obj\Debug\net6.0\HastaneRandevuSistemi.pdb

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UMcJFOPXDHwrBuiiAkHXlqi6dN3HTsqyHO2ZBHJhV4v7UiaLr46AamXSxr13j+c2txOEdEAt021ugcUGMA4gYg==",
+  "dgSpecHash": "PyfSWAVIVj/fBvEUVVU31QPzogVPFWxQLGPQEt9/6lGuDHAwwJh2xIISGiCk8VqXNoyXWLem4Ef8vP5wKuoLDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
+  "projectFilePath": "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Azn\\.nuget\\packages\\identityserver3\\2.6.3\\identityserver3.2.6.3.nupkg.sha512",
-    "C:\\Users\\Azn\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
+    "C:\\Users\\oezen\\.nuget\\packages\\identityserver3\\2.6.3\\identityserver3.2.6.3.nupkg.sha512",
+    "C:\\Users\\oezen\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
   ],
   "logs": [
     {

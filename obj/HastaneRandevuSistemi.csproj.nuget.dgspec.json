@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {}
+    "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {
+    "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
         "projectName": "HastaneRandevuSistemi",
-        "projectPath": "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
-        "packagesPath": "C:\\Users\\Azn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Azn\\Desktop\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\obj\\",
+        "projectPath": "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
+        "packagesPath": "C:\\Users\\oezen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oezen\\OneDrive\\Belgeler\\GitHub\\HastaneRandevuSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Azn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oezen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
