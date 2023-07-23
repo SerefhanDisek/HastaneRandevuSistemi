@@ -32,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld1xEb2t0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Hastalik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIYXN0YWxpa1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Hastalik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIYXN0YWxpa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Hasta/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld1xIYXN0YVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,4 +58,20 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Poliklinik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xQb2xpa2xpbmlrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Poliklinik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xQb2xpa2xpbmlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Randevu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xSYW5kZXZ1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oezen/OneDrive/Belgeler/GitHub/HastaneRandevuSistemi/View/Randevu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xSYW5kZXZ1XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
