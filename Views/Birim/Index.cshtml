@@ -1,0 +1,19 @@
+@model IEnumerable<HastaneRandevuSistemi.Models.Birim>
+
+<h2>Birimler Listesi</h2>
+
+<table class="tablo">
+    <thead>
+        <tr>
+            <th>İsim</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Isim</td>
+            </tr>
+        }
+    </tbody>
+</table>

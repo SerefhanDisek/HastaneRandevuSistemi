@@ -1,0 +1,19 @@
+@model List<HastaneRandevuSistemi.Models.Poliklinik>
+
+<h2>Poliklinikler</h2>
+
+<table class="table"
+  <thead>
+    <tr>
+      <th>Isim</th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach (var item in Model)
+        {
+           <tr>
+            <td>@item.Isim</td>
+           </tr>
+        }
+  </tbody>
+</table>

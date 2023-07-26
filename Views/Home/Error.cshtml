@@ -1,0 +1,10 @@
+@model ErrorViewModel
+@{
+    ViewData["Baslik"] = "Hata";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Error</h1>
+	<p>Talebiniz işlenirken bir hata oluştu.</p>
+    <p>@Model.RequestId</p>
+</div>

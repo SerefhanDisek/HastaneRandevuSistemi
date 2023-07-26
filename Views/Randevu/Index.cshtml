@@ -1,0 +1,79 @@
+@model List<HastaneRandevuSistemi.Models.Randevu>
+
+<h2>Randevu</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tarih</th>
+            <th>Hasta</th>
+            <th>Doktor</th>
+            <th>HastaId</th>
+            <th>DoktorId</th>
+            <th>Poliklinik</th>
+            <th>Birim</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Tarih</td>
+                <td>@item.Hasta</td>
+                <td>@item.Doktor</td>
+                <td>@item.HastaId</td>
+                <td>@item.DoktorId</td>
+                <td>@item.Poliklinik</td>
+                <td>@item.Birim</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-controller="Randevu" asp-action="RandevuOlustur">
+
+    <div class="form-group">
+        <label asp-for="Tarih"></label>
+        <input asp-for="Tarih" />
+        <span asp-validation-for="Tarih"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Hasta"></label>
+        <input asp-for="Hasta" />
+        <span asp-validation-for="HastaId"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Poliklinik"></label>
+        <input asp-for="Poliklinik" />
+        <span asp-validation-for="Poiklinik"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Doktor"></label>
+        <input asp-for="Doktor" />
+        <span asp-validation-for="Doktor"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Birim"></label>
+        <input asp-for="Birim" />
+        <span asp-validation-for="Birim"></span>
+    </div>
+
+    @section Scripts{
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+
+</form>
+
+<div class="form-group">
+    <input type="submit" value="Randevu Oluştur">
+</div>
+
+
+
+

@@ -1,0 +1,25 @@
+@model IEnumerable<HastaneRandevuSistemi.Models.Doktor>
+
+<h2>Doktorlar</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Isim</th>
+            <th>SoyIsim</th>
+            <th>BirimId</th>
+            <th>PoliklinikId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Isim</td>
+                <td>@item.SoyIsim</td>
+                <td>@item.BirimId</td>
+                <td>@item.PoliklinikId</td>
+            </tr>
+        }
+    </tbody>
+</table>

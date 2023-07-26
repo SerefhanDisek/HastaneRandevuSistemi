@@ -1,0 +1,25 @@
+@model List<HastaneRandevuSistemi.Models.Hastalik>
+
+<h2>Hastalıklar</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Isim</th>
+            <th>Tanim</th>
+            <th>Belirti</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Isim</td>
+                <td>@item.Tanim</td>
+                <td>@item.Belirti</td>
+            </tr>
+        }
+    </tbody>
+</table>
